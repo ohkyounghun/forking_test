@@ -3,4 +3,4 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 
 ## new section
 
-This is 2025 version
+This is 2025 versions
